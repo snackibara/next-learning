@@ -20,6 +20,7 @@
         bottom: 0;
         background-color: var(--color-bg-painted);
         color: var(--color-text-unpainted);
+        padding: 1rem;
     }
     .items {
         flex-direction: column;
